@@ -1,0 +1,23 @@
+.env
+
+# Python compiled files
+*.pyc
+
+# Python cache directories
+__pycache__/
+
+.vscode
+
+.idea/
+
+/env/
+
+
+/venv/
+
+# Ignore node_modules
+node_modules/
+
+**/env/
+
+**/venv/
